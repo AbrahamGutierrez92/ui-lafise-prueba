@@ -13,6 +13,8 @@ npm run dev
 
 ## Inicializar antes la API de MOCK
 
+### NOTA: Api MOCK esta algo lenta, tomar en cuenta
+
 
 
 
